@@ -23,15 +23,16 @@ h3 {
 }
 
 .controls {
-    margin-top: 40px;
+    margin: 40px;
     width: 150px;
+    border-radius: 10px;
     display: flex;
     justify-content: space-between;
     box-shadow: 3px 3px 0 #ff0000, -3px -3px 0 #00ffff;
 }
 
 .controls span i {
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .controls span:active {
