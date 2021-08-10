@@ -6,15 +6,15 @@ const rightButton = document.querySelector(".rightButton")
 
 const songList = [
     {
-        path: "J. Balvin_ Skrillex - In Da Getto (Letra_Lyrics)(MP3_128K).mp3",
+        path: "./musicaPrueba/J. Balvin_ Skrillex - In Da Getto (Letra_Lyrics)(MP3_128K).mp3",
         name: "in da getto - j balvin"
     },
     {
-        path: "Plan B - Mi Vecinita(MP3_128K).mp3",
+        path: "./musicaPrueba/Plan B - Mi Vecinita(MP3_128K).mp3",
         name: "mi vecinita - plan b"
     },
     {
-        path: "se aloca j balvin letra(MP3_128K).mp3",
+        path: "./musicaPrueba/se aloca j balvin letra(MP3_128K).mp3",
         name: "se aloca - j balvin"
     }
 ]
